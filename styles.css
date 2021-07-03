@@ -1,0 +1,13 @@
+h1 {
+    color: rgb(87, 131, 151);
+}
+
+body {
+    background-color: lemonchiffon;
+  }
+  
+  .profile-pic {
+    width: 20rem;
+    height: 25rem;
+    border-radius: 320px;
+  }
